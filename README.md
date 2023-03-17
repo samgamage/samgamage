@@ -1,5 +1,5 @@
 ## Hey, I'm Sam. 
-I'm a full stack software engineer based in Atlanta, GA.
+I am a software engineer who is passionate about designing and developing great user experiences.
 
 ### Get In Touch
 <a href="mailto:sammygamage@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/samuel-gamage-27b91816b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCGEEpTZygTTS7099gplKJeg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://samgamage.dev/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
