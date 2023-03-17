@@ -10,6 +10,7 @@ I'm a full stack software engineer based in Atlanta, GA.
 
 
 ### Project Repos
+* <a href="https://github.com/samgamage/ava-chatbot">Ava Chatbot</a> - Chatbot capable of searching the internet
 * <a href="https://github.com/medmanager">Med Manager</a> - Cross-platform medication tracking app
 * <a href="https://github.com/samgamage/plutus">Plutus</a> - Financial budgeting app utilizing AI
 * <a href="https://github.com/samgamage/claire">Claire</a> - Non-superficial dating app
